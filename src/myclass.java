@@ -3,4 +3,5 @@ public class myclass{
 
     public string getName() {
         return "sjdkjs";
+    }
 }
