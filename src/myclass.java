@@ -13,4 +13,8 @@ public class myclass{
     public void newMethod(){
       System.out.print("I add a new method");
     }
+
+    public void anotherMethod(){
+      System.out.println("I add another mehtod");
+    }
 }
