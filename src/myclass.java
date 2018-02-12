@@ -10,4 +10,7 @@ public class myclass{
     public void print(){
 
     }
+    public void newMethod(){
+      System.out.print("I add a new method");
+    }
 }
