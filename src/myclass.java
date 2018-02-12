@@ -15,6 +15,6 @@ public class myclass{
     }
 
     public void anotherMethod(){
-      System.out.println("I add another a fany mehtod");
+      System.out.println("I add another a fany but ordinary mehtod");
     }
 }
