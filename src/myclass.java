@@ -17,4 +17,8 @@ public class myclass{
     public void anotherMethod(){
       System.out.println("I add another a fany but ordinary mehtod");
     }
+
+    public void showFetch(){
+        System.out.println("Hey I did fetch");
+    }
 }
