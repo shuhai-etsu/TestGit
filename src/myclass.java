@@ -22,6 +22,6 @@ public class myclass{
         System.out.println("Hey I did fetch");
     }
     public void showMergeConflict(){
-        System.out.println("I say apple and orange");
+        System.out.println("I say apple and orange and grape");
     }
 }
