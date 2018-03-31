@@ -15,13 +15,13 @@ public class myclass{
     }
 
     public void anotherMethod(){
-      System.out.println("I add another an ordinary mehtod");
+      System.out.println("I add another a fany but ordinary mehtod");
     }
 
     public void showFetch(){
         System.out.println("Hey I did fetch");
     }
     public void showMergeConflict(){
-        System.out.println("I say apple");
+        System.out.println("I say apple and orange");
     }
 }
