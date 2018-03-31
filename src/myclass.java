@@ -21,4 +21,7 @@ public class myclass{
     public void showFetch(){
         System.out.println("Hey I did fetch");
     }
+    public void showMergeConflict(){
+        System.out.println("I say orange");
+    }
 }
